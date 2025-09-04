@@ -45,7 +45,7 @@ This project demonstrates a clean **backend (Express + TypeScript)** and **front
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/room-upload-app.git
+git clone https://github.com/fawazv/multer-cloudinary.git
 cd room-upload-app
 ```
 
